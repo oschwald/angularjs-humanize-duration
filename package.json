@@ -1,0 +1,20 @@
+
+{
+  "name": "angularjs-humanize-duration",
+  "version": "0.1.0",
+  "description": "AngularJS filter wrapping the humanize-duration library.",
+  "main": "src/angular-humanize-duration.js",
+  "license": "MIT",
+  "homepage": "https://github.com/sebastianhaas/angularjs-humanize-duration",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.8.2",
+    "humanize-duration": "~3.27.1"
+  }
+}
